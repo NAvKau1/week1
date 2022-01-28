@@ -19,6 +19,7 @@ public class Student {
     public String getName() {
         return name;
     }
+    
 
     /**
      * @param name the name to set
@@ -26,5 +27,6 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     }
+    System.out.println("hlo");
 
 }
