@@ -8,5 +8,21 @@
  * @author DELL
  */
 public class student {
+    private int numOfCourse;
+
+    /**
+     * @return the numOfCourse
+     */
+    public int getNumOfCourse() {
+        return numOfCourse;
+    }
+
+    /**
+     * @param numOfCourse the numOfCourse to set
+     */
+    public void setNumOfCourse(int numOfCourse) {
+        this.numOfCourse = numOfCourse;
+    }
+    
     
 }
